@@ -1,0 +1,70 @@
+{
+  "blogs": [
+    {
+      "title": "Day 1 : Learning JS Basics..",
+      "body": "hduysuhaulifulahufluiahyufah",
+      "author": "Myself",
+      "id": 1
+    },
+    {
+      "title": "Day 3 : Clowning a Youtube project ..",
+      "body": "hduysuhaulifulahufluiahyufah",
+      "author": "Myself",
+      "id": 3
+    },
+    {
+      "title": "fdvk;jz.",
+      "body": "dsc",
+      "author": "Myself",
+      "id": 4
+    },
+    {
+      "title": "fdvk;jz.",
+      "body": "dsc",
+      "author": "Myself",
+      "id": 5
+    },
+    {
+      "title": "fdvk;jz.",
+      "body": "dsc",
+      "author": "Myself",
+      "id": 6
+    },
+    {
+      "title": "dfdg",
+      "body": "dsfasj",
+      "author": "someone",
+      "id": 7
+    },
+    {
+      "title": "dfdg",
+      "body": "dsfasj",
+      "author": "someone",
+      "id": 8
+    },
+    {
+      "title": "dsfsfhk,hwwwefrgth",
+      "body": "AASDFGH",
+      "author": "someone",
+      "id": 9
+    },
+    {
+      "title": "dsfsfhk,hwwwefrgth",
+      "body": "AASDFGH",
+      "author": "someone",
+      "id": 10
+    },
+    {
+      "title": "dsfsfhk,hwwwefrgth",
+      "body": "AASDFGH",
+      "author": "someone",
+      "id": 11
+    },
+    {
+      "title": "nkl ",
+      "body": "hjkl",
+      "author": "Myself",
+      "id": 18
+    }
+  ]
+}
